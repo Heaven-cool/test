@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    "common.h": "c",
+    "server_net.h": "c",
+    "client_ui.h": "c"
+  }
+}
